@@ -1,0 +1,189 @@
+*{
+	box-sizing: border-box;
+	margin: 0px;
+	padding: 0px;
+}
+.navbar a img {
+	width: 220px;
+}
+.login {
+	border: 2px solid green;
+	border-radius: 12px;
+
+}
+.navbar li a {
+	font-weight: 600;
+}
+.hero {
+	background-color: #F8F5FA;
+}
+.btn button{
+	background-color: #B6487F;
+	padding: 14px;
+	padding-left: 42px;
+	padding-right: 42px;
+	border: 0;
+	border-radius: 12px;
+	color: white;
+	font-size: 22px;
+	font-weight: 500;
+}
+.hero h1{
+	color: #2D3B5C;
+	letter-spacing: 6px;
+	font-weight: 600;
+}
+.hero p{
+	font-size: 22px;
+
+}
+.studio {
+	background-color: lightpink;
+}
+.studio h1{
+	font-weight: 600;
+}
+.studio h1 span{
+	color: #B6487F;
+}
+.check p{
+	font-size: 16px;
+	font-weight: 500;
+}
+.check span i{
+	font-size: 35px;
+	color: #B6487F;
+}
+.cloud{
+	background-color: #F8F5FA;
+}
+.cloud i{
+	font-size: 60px;
+}
+.best{
+	background-color: #F8F5FA;
+}
+.best h6{
+	font-weight: 700;
+}
+.last-heading{
+	background-color: #BBCEE4;
+}
+.ci {
+	background-color: #DFF2E3;
+}
+.cri {
+	background-color: #FAE1E3;
+}
+.feedback p{
+	font-weight: 500;
+
+}
+.fee-btn button{
+	border-radius: 30px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	padding-left: 20px;
+	padding-right: 20px;
+	font-weight: 500;
+}
+.video{
+	background-color: #c7d2de;
+}
+.video .mic i {
+	font-size: 30px;
+}
+.video .mic p{
+	text-align: justify;
+}
+.newsletter {
+	background-color: #B6487F;
+	border-radius: 16px;
+}
+.newsletter input{
+	width: 450px;
+}
+.newsletter .input-btn button{
+	border-radius: 12px;
+	background-color: #B6487F;
+	border: 2px solid white;
+	color: white;
+}
+.footer-logo img{
+	width: 200px;
+}
+.footer{
+	border-left: 1px solid gray;
+}
+.footer ul{
+	list-style: none;
+	padding: 0px;
+	font-size: 14px;
+	font-weight: 400;
+}
+.footer-home p{
+	border-left: 1px solid gray;
+}
+.last{
+	background-color: #dee7f0;
+}
+
+
+
+@media screen and (max-width: 429px){
+	.newsletter input {
+		width: 150px;
+	}
+	.navbar a img {
+	width: 120px;
+    }
+    .vid video{
+    	width: 300px;
+    	height: auto;
+    }
+
+}
+@media screen and (max-width: 764px){
+	.newsletter input {
+		width: 250px;
+	}
+
+	
+}
+@media screen and (max-width: 1280){
+	.vid video{
+    	width: 150px;
+    	
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
